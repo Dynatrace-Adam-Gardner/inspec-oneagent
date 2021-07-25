@@ -1,6 +1,6 @@
-name: check_oneagent
-title: Check OneAgent Installation and Mode
-summary: Checks that Dynatrace OneAgent is installed, running, and in FullStack mode.
+name: check_oneagent_linux
+title: Check OneAgent Installation and Mode (Linux)
+summary: Checks that Dynatrace OneAgent is installed, running, and in FullStack mode. For Linux.
 version: 0.0.1
 maintainer: Adam Gardner
 copyright: Adam Gardner
