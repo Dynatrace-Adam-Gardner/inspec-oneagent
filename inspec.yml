@@ -1,0 +1,7 @@
+name: check_oneagent
+title: Check OneAgent Installation and Mode
+summary: Checks that Dynatrace OneAgent is installed, running, and in FullStack mode.
+version: 0.0.1
+maintainer: Adam Gardner
+copyright: Adam Gardner
+license: Apache-2.0
