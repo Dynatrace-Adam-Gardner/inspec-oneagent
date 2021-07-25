@@ -1,6 +1,6 @@
-title 'Check OneAgent'
+title 'Check OneAgent (Linux)'
 
-control 'check_oneagent' do
+control 'check_oneagent_linux' do
 
   title 'Verify OneAgent'
   desc 'Ensure OneAgent is installed, enabled and running'
